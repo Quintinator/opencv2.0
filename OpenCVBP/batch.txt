@@ -1,0 +1,8 @@
+halve cirkel Geel
+halve cirkel Groen # This is an inline comment
+Vierkant Geel# This is an inline comment that starts directly behind the specification 
+# This is a full-line comment
+Vierkant # Groen
+Rechthoek pink
+Rctnagle Groen
+Trl Geel

@@ -1,0 +1,3 @@
+* valgrind -> fix, en uitleg waarom
+* batch tussen hashtag
+* cppcheck -> juiste versie makkelijk aanroepen
